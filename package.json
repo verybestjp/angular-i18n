@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/angular.js.git"
+    "url": "https://github.com/verybestjp/angular-i18n.git"
   },
   "keywords": [
     "angular",
@@ -21,9 +21,9 @@
   "author": "Angular Core Team <angular-core+npm@google.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angular/angular.js/issues"
+    "url": "https://github.com/verybestjp/angular-i18n/issues"
   },
-  "homepage": "http://angularjs.org",
+  "homepage": "https://github.com/verybestjp/angular-i18n",
   "jspm": {
     "shim": {
       "angular-i18n": {

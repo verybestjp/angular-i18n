@@ -1,5 +1,6 @@
 {
   "name": "angular-i18n",
+  "main": "ja-jp.js",
   "version": "1.8.0",
   "description": "AngularJS module for internationalization",
   "scripts": {
